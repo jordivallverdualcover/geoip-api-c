@@ -28,7 +28,7 @@ static CRITICAL_SECTION preadsc;
     #pragma section(".CRT$XCU",read)
     #define INITIALIZER2_(f, p)                                         \
     static void __cdecl f(void);                                        \
-    __declspec(allocate(".CRT$XCU")) void(__cdecl * f ## _) (void) = f; \
+    __declspec(allocate(".CRT$XCU")) void (__cdecl * f ## _)(void) = f; \
     __pragma(comment(linker, "/include:" p # f "_"))                    \
     static void __cdecl f(void)
     #ifdef _WIN64

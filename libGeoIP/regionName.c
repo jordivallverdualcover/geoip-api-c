@@ -5,7 +5,7 @@
 
 static const char * get_region_name_AD(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 3:
         return "Encamp";
     case 4:
@@ -25,7 +25,7 @@ static const char * get_region_name_AD(int region_code)
 
 static const char * get_region_name_AE(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Abu Dhabi";
     case 2:
@@ -47,7 +47,7 @@ static const char * get_region_name_AE(int region_code)
 
 static const char * get_region_name_AF(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Badakhshan";
     case 2:
@@ -123,7 +123,7 @@ static const char * get_region_name_AF(int region_code)
 
 static const char * get_region_name_AG(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Barbuda";
     case 3:
@@ -147,7 +147,7 @@ static const char * get_region_name_AG(int region_code)
 
 static const char * get_region_name_AL(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 40:
         return "Berat";
     case 41:
@@ -179,7 +179,7 @@ static const char * get_region_name_AL(int region_code)
 
 static const char * get_region_name_AM(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Aragatsotn";
     case 2:
@@ -209,7 +209,7 @@ static const char * get_region_name_AM(int region_code)
 
 static const char * get_region_name_AO(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Benguela";
     case 2:
@@ -253,7 +253,7 @@ static const char * get_region_name_AO(int region_code)
 
 static const char * get_region_name_AR(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Buenos Aires";
     case 2:
@@ -309,7 +309,7 @@ static const char * get_region_name_AR(int region_code)
 
 static const char * get_region_name_AT(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Burgenland";
     case 2:
@@ -335,7 +335,7 @@ static const char * get_region_name_AT(int region_code)
 
 static const char * get_region_name_AU(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Australian Capital Territory";
     case 2:
@@ -359,7 +359,7 @@ static const char * get_region_name_AU(int region_code)
 
 static const char * get_region_name_AZ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Abseron";
     case 2:
@@ -509,7 +509,7 @@ static const char * get_region_name_AZ(int region_code)
 
 static const char * get_region_name_BA(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Federation of Bosnia and Herzegovina";
     case 3:
@@ -523,7 +523,7 @@ static const char * get_region_name_BA(int region_code)
 
 static const char * get_region_name_BB(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Christ Church";
     case 2:
@@ -553,7 +553,7 @@ static const char * get_region_name_BB(int region_code)
 
 static const char * get_region_name_BD(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 81:
         return "Dhaka";
     case 82:
@@ -575,7 +575,7 @@ static const char * get_region_name_BD(int region_code)
 
 static const char * get_region_name_BE(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Antwerpen";
     case 3:
@@ -609,7 +609,7 @@ static const char * get_region_name_BE(int region_code)
 
 static const char * get_region_name_BF(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 15:
         return "Bam";
     case 19:
@@ -707,7 +707,7 @@ static const char * get_region_name_BF(int region_code)
 
 static const char * get_region_name_BG(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 33:
         return "Mikhaylovgrad";
     case 38:
@@ -773,7 +773,7 @@ static const char * get_region_name_BG(int region_code)
 
 static const char * get_region_name_BH(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Al Hadd";
     case 2:
@@ -813,7 +813,7 @@ static const char * get_region_name_BH(int region_code)
 
 static const char * get_region_name_BI(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 2:
         return "Bujumbura";
     case 9:
@@ -853,7 +853,7 @@ static const char * get_region_name_BI(int region_code)
 
 static const char * get_region_name_BJ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 7:
         return "Alibori";
     case 8:
@@ -885,7 +885,7 @@ static const char * get_region_name_BJ(int region_code)
 
 static const char * get_region_name_BM(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Devonshire";
     case 2:
@@ -915,7 +915,7 @@ static const char * get_region_name_BM(int region_code)
 
 static const char * get_region_name_BN(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 7:
         return "Alibori";
     case 8:
@@ -947,7 +947,7 @@ static const char * get_region_name_BN(int region_code)
 
 static const char * get_region_name_BO(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Chuquisaca";
     case 2:
@@ -973,7 +973,7 @@ static const char * get_region_name_BO(int region_code)
 
 static const char * get_region_name_BR(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Acre";
     case 2:
@@ -1035,7 +1035,7 @@ static const char * get_region_name_BR(int region_code)
 
 static const char * get_region_name_BS(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 5:
         return "Bimini";
     case 6:
@@ -1085,7 +1085,7 @@ static const char * get_region_name_BS(int region_code)
 
 static const char * get_region_name_BT(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 5:
         return "Bumthang";
     case 6:
@@ -1129,7 +1129,7 @@ static const char * get_region_name_BT(int region_code)
 
 static const char * get_region_name_BW(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Central";
     case 3:
@@ -1155,7 +1155,7 @@ static const char * get_region_name_BW(int region_code)
 
 static const char * get_region_name_BY(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Brestskaya Voblasts'";
     case 2:
@@ -1177,7 +1177,7 @@ static const char * get_region_name_BY(int region_code)
 
 static const char * get_region_name_BZ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Belize";
     case 2:
@@ -1197,7 +1197,7 @@ static const char * get_region_name_BZ(int region_code)
 
 static const char * get_region_name_CA(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 849:
         return "Alberta";
     case 893:
@@ -1231,7 +1231,7 @@ static const char * get_region_name_CA(int region_code)
 
 static const char * get_region_name_CD(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Bandundu";
     case 2:
@@ -1259,7 +1259,7 @@ static const char * get_region_name_CD(int region_code)
 
 static const char * get_region_name_CF(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Bamingui-Bangoran";
     case 2:
@@ -1301,7 +1301,7 @@ static const char * get_region_name_CF(int region_code)
 
 static const char * get_region_name_CG(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Bouenza";
     case 4:
@@ -1331,7 +1331,7 @@ static const char * get_region_name_CG(int region_code)
 
 static const char * get_region_name_CH(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Aargau";
     case 2:
@@ -1391,7 +1391,7 @@ static const char * get_region_name_CH(int region_code)
 
 static const char * get_region_name_CI(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 74:
         return "Agneby";
     case 75:
@@ -1437,7 +1437,7 @@ static const char * get_region_name_CI(int region_code)
 
 static const char * get_region_name_CL(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Valparaiso";
     case 2:
@@ -1479,7 +1479,7 @@ static const char * get_region_name_CL(int region_code)
 
 static const char * get_region_name_CM(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 4:
         return "Est";
     case 5:
@@ -1507,7 +1507,7 @@ static const char * get_region_name_CM(int region_code)
 
 static const char * get_region_name_CN(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Anhui";
     case 2:
@@ -1577,7 +1577,7 @@ static const char * get_region_name_CN(int region_code)
 
 static const char * get_region_name_CO(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Amazonas";
     case 2:
@@ -1651,7 +1651,7 @@ static const char * get_region_name_CO(int region_code)
 
 static const char * get_region_name_CR(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Alajuela";
     case 2:
@@ -1673,7 +1673,7 @@ static const char * get_region_name_CR(int region_code)
 
 static const char * get_region_name_CU(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Pinar del Rio";
     case 2:
@@ -1711,7 +1711,7 @@ static const char * get_region_name_CU(int region_code)
 
 static const char * get_region_name_CV(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Boa Vista";
     case 2:
@@ -1751,7 +1751,7 @@ static const char * get_region_name_CV(int region_code)
 
 static const char * get_region_name_CY(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Famagusta";
     case 2:
@@ -1771,7 +1771,7 @@ static const char * get_region_name_CY(int region_code)
 
 static const char * get_region_name_CZ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 52:
         return "Hlavni mesto Praha";
     case 78:
@@ -1807,7 +1807,7 @@ static const char * get_region_name_CZ(int region_code)
 
 static const char * get_region_name_DE(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Baden-Wurttemberg";
     case 2:
@@ -1847,7 +1847,7 @@ static const char * get_region_name_DE(int region_code)
 
 static const char * get_region_name_DJ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Ali Sabieh";
     case 4:
@@ -1867,7 +1867,7 @@ static const char * get_region_name_DJ(int region_code)
 
 static const char * get_region_name_DK(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 17:
         return "Hovedstaden";
     case 18:
@@ -1885,7 +1885,7 @@ static const char * get_region_name_DK(int region_code)
 
 static const char * get_region_name_DM(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 2:
         return "Saint Andrew";
     case 3:
@@ -1913,7 +1913,7 @@ static const char * get_region_name_DM(int region_code)
 
 static const char * get_region_name_DO(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Azua";
     case 2:
@@ -1989,7 +1989,7 @@ static const char * get_region_name_DO(int region_code)
 
 static const char * get_region_name_DZ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Alger";
     case 3:
@@ -2093,7 +2093,7 @@ static const char * get_region_name_DZ(int region_code)
 
 static const char * get_region_name_EC(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Galapagos";
     case 2:
@@ -2145,7 +2145,7 @@ static const char * get_region_name_EC(int region_code)
 
 static const char * get_region_name_EE(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Harjumaa";
     case 2:
@@ -2195,7 +2195,7 @@ static const char * get_region_name_EE(int region_code)
 
 static const char * get_region_name_EG(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Ad Daqahliyah";
     case 2:
@@ -2257,7 +2257,7 @@ static const char * get_region_name_EG(int region_code)
 
 static const char * get_region_name_ER(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Anseba";
     case 2:
@@ -2277,7 +2277,7 @@ static const char * get_region_name_ER(int region_code)
 
 static const char * get_region_name_ES(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 7:
         return "Islas Baleares";
     case 27:
@@ -2319,7 +2319,7 @@ static const char * get_region_name_ES(int region_code)
 
 static const char * get_region_name_ET(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 44:
         return "Adis Abeba";
     case 45:
@@ -2349,7 +2349,7 @@ static const char * get_region_name_ET(int region_code)
 
 static const char * get_region_name_FI(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Aland";
     case 6:
@@ -2369,7 +2369,7 @@ static const char * get_region_name_FI(int region_code)
 
 static const char * get_region_name_FJ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Central";
     case 2:
@@ -2387,7 +2387,7 @@ static const char * get_region_name_FJ(int region_code)
 
 static const char * get_region_name_FM(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Kosrae";
     case 2:
@@ -2403,7 +2403,7 @@ static const char * get_region_name_FM(int region_code)
 
 static const char * get_region_name_FR(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 97:
         return "Aquitaine";
     case 98:
@@ -2455,7 +2455,7 @@ static const char * get_region_name_FR(int region_code)
 
 static const char * get_region_name_GA(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Estuaire";
     case 2:
@@ -2481,7 +2481,7 @@ static const char * get_region_name_GA(int region_code)
 
 static const char * get_region_name_GB(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 832:
         return "Barking and Dagenham";
     case 833:
@@ -2957,7 +2957,7 @@ static const char * get_region_name_GB(int region_code)
 
 static const char * get_region_name_GD(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Saint Andrew";
     case 2:
@@ -2977,7 +2977,7 @@ static const char * get_region_name_GD(int region_code)
 
 static const char * get_region_name_GE(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Abashis Raioni";
     case 2:
@@ -3113,7 +3113,7 @@ static const char * get_region_name_GE(int region_code)
 
 static const char * get_region_name_GH(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Greater Accra";
     case 2:
@@ -3141,7 +3141,7 @@ static const char * get_region_name_GH(int region_code)
 
 static const char * get_region_name_GL(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Nordgronland";
     case 2:
@@ -3155,7 +3155,7 @@ static const char * get_region_name_GL(int region_code)
 
 static const char * get_region_name_GM(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Banjul";
     case 2:
@@ -3175,7 +3175,7 @@ static const char * get_region_name_GM(int region_code)
 
 static const char * get_region_name_GN(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Beyla";
     case 2:
@@ -3251,7 +3251,7 @@ static const char * get_region_name_GN(int region_code)
 
 static const char * get_region_name_GQ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 3:
         return "Annobon";
     case 4:
@@ -3273,7 +3273,7 @@ static const char * get_region_name_GQ(int region_code)
 
 static const char * get_region_name_GR(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Evros";
     case 2:
@@ -3383,7 +3383,7 @@ static const char * get_region_name_GR(int region_code)
 
 static const char * get_region_name_GT(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Alta Verapaz";
     case 2:
@@ -3435,7 +3435,7 @@ static const char * get_region_name_GT(int region_code)
 
 static const char * get_region_name_GW(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Bafata";
     case 2:
@@ -3461,7 +3461,7 @@ static const char * get_region_name_GW(int region_code)
 
 static const char * get_region_name_GY(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 10:
         return "Barima-Waini";
     case 11:
@@ -3489,7 +3489,7 @@ static const char * get_region_name_GY(int region_code)
 
 static const char * get_region_name_HN(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Atlantida";
     case 2:
@@ -3533,7 +3533,7 @@ static const char * get_region_name_HN(int region_code)
 
 static const char * get_region_name_HR(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Bjelovarsko-Bilogorska";
     case 2:
@@ -3583,7 +3583,7 @@ static const char * get_region_name_HR(int region_code)
 
 static const char * get_region_name_HT(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 3:
         return "Nord-Ouest";
     case 6:
@@ -3611,7 +3611,7 @@ static const char * get_region_name_HT(int region_code)
 
 static const char * get_region_name_HU(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Bacs-Kiskun";
     case 2:
@@ -3705,7 +3705,7 @@ static const char * get_region_name_HU(int region_code)
 
 static const char * get_region_name_ID(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Aceh";
     case 2:
@@ -3779,7 +3779,7 @@ static const char * get_region_name_ID(int region_code)
 
 static const char * get_region_name_IE(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Carlow";
     case 2:
@@ -3839,7 +3839,7 @@ static const char * get_region_name_IE(int region_code)
 
 static const char * get_region_name_IL(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "HaDarom";
     case 2:
@@ -3859,7 +3859,7 @@ static const char * get_region_name_IL(int region_code)
 
 static const char * get_region_name_IN(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Andaman and Nicobar Islands";
     case 2:
@@ -3937,7 +3937,7 @@ static const char * get_region_name_IN(int region_code)
 
 static const char * get_region_name_IQ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Al Anbar";
     case 2:
@@ -3981,7 +3981,7 @@ static const char * get_region_name_IQ(int region_code)
 
 static const char * get_region_name_IR(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Azarbayjan-e Bakhtari";
     case 3:
@@ -4069,7 +4069,7 @@ static const char * get_region_name_IR(int region_code)
 
 static const char * get_region_name_IS(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 3:
         return "Arnessysla";
     case 5:
@@ -4133,7 +4133,7 @@ static const char * get_region_name_IS(int region_code)
 
 static const char * get_region_name_IT(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Abruzzi";
     case 2:
@@ -4181,7 +4181,7 @@ static const char * get_region_name_IT(int region_code)
 
 static const char * get_region_name_JM(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Clarendon";
     case 2:
@@ -4217,7 +4217,7 @@ static const char * get_region_name_JM(int region_code)
 
 static const char * get_region_name_JO(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 2:
         return "Al Balqa'";
     case 9:
@@ -4249,7 +4249,7 @@ static const char * get_region_name_JO(int region_code)
 
 static const char * get_region_name_JP(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Aichi";
     case 2:
@@ -4351,7 +4351,7 @@ static const char * get_region_name_JP(int region_code)
 
 static const char * get_region_name_KE(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Central";
     case 2:
@@ -4375,7 +4375,7 @@ static const char * get_region_name_KE(int region_code)
 
 static const char * get_region_name_KG(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Bishkek";
     case 2:
@@ -4401,7 +4401,7 @@ static const char * get_region_name_KG(int region_code)
 
 static const char * get_region_name_KH(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Batdambang";
     case 2:
@@ -4459,7 +4459,7 @@ static const char * get_region_name_KH(int region_code)
 
 static const char * get_region_name_KI(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Gilbert Islands";
     case 2:
@@ -4473,7 +4473,7 @@ static const char * get_region_name_KI(int region_code)
 
 static const char * get_region_name_KM(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Anjouan";
     case 2:
@@ -4487,7 +4487,7 @@ static const char * get_region_name_KM(int region_code)
 
 static const char * get_region_name_KN(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Christ Church Nichola Town";
     case 2:
@@ -4523,7 +4523,7 @@ static const char * get_region_name_KN(int region_code)
 
 static const char * get_region_name_KP(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Chagang-do";
     case 3:
@@ -4557,7 +4557,7 @@ static const char * get_region_name_KP(int region_code)
 
 static const char * get_region_name_KR(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Cheju-do";
     case 3:
@@ -4597,7 +4597,7 @@ static const char * get_region_name_KR(int region_code)
 
 static const char * get_region_name_KW(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Al Ahmadi";
     case 2:
@@ -4617,7 +4617,7 @@ static const char * get_region_name_KW(int region_code)
 
 static const char * get_region_name_KY(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Creek";
     case 2:
@@ -4641,7 +4641,7 @@ static const char * get_region_name_KY(int region_code)
 
 static const char * get_region_name_KZ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Almaty";
     case 2:
@@ -4683,7 +4683,7 @@ static const char * get_region_name_KZ(int region_code)
 
 static const char * get_region_name_LA(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Attapu";
     case 2:
@@ -4717,7 +4717,7 @@ static const char * get_region_name_LA(int region_code)
 
 static const char * get_region_name_LB(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Beqaa";
     case 2:
@@ -4747,7 +4747,7 @@ static const char * get_region_name_LB(int region_code)
 
 static const char * get_region_name_LC(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Anse-la-Raye";
     case 2:
@@ -4777,7 +4777,7 @@ static const char * get_region_name_LC(int region_code)
 
 static const char * get_region_name_LI(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Balzers";
     case 2:
@@ -4811,7 +4811,7 @@ static const char * get_region_name_LI(int region_code)
 
 static const char * get_region_name_LK(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 29:
         return "Central";
     case 30:
@@ -4837,7 +4837,7 @@ static const char * get_region_name_LK(int region_code)
 
 static const char * get_region_name_LR(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Bong";
     case 4:
@@ -4879,7 +4879,7 @@ static const char * get_region_name_LR(int region_code)
 
 static const char * get_region_name_LS(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 10:
         return "Berea";
     case 11:
@@ -4907,7 +4907,7 @@ static const char * get_region_name_LS(int region_code)
 
 static const char * get_region_name_LT(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 56:
         return "Alytaus Apskritis";
     case 57:
@@ -4935,7 +4935,7 @@ static const char * get_region_name_LT(int region_code)
 
 static const char * get_region_name_LU(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Diekirch";
     case 2:
@@ -4949,7 +4949,7 @@ static const char * get_region_name_LU(int region_code)
 
 static const char * get_region_name_LV(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Aizkraukles";
     case 2:
@@ -5023,7 +5023,7 @@ static const char * get_region_name_LV(int region_code)
 
 static const char * get_region_name_LY(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 3:
         return "Al Aziziyah";
     case 5:
@@ -5081,7 +5081,7 @@ static const char * get_region_name_LY(int region_code)
 
 static const char * get_region_name_MA(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 45:
         return "Grand Casablanca";
     case 46:
@@ -5119,7 +5119,7 @@ static const char * get_region_name_MA(int region_code)
 
 static const char * get_region_name_MC(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "La Condamine";
     case 2:
@@ -5133,7 +5133,7 @@ static const char * get_region_name_MC(int region_code)
 
 static const char * get_region_name_MD(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 51:
         return "Gagauzia";
     case 57:
@@ -5215,7 +5215,7 @@ static const char * get_region_name_MD(int region_code)
 
 static const char * get_region_name_MG(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Antsiranana";
     case 2:
@@ -5235,7 +5235,7 @@ static const char * get_region_name_MG(int region_code)
 
 static const char * get_region_name_MK(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Aracinovo";
     case 2:
@@ -5525,7 +5525,7 @@ static const char * get_region_name_MK(int region_code)
 
 static const char * get_region_name_ML(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Bamako";
     case 3:
@@ -5551,7 +5551,7 @@ static const char * get_region_name_ML(int region_code)
 
 static const char * get_region_name_MM(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Rakhine State";
     case 2:
@@ -5589,7 +5589,7 @@ static const char * get_region_name_MM(int region_code)
 
 static const char * get_region_name_MN(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Arhangay";
     case 2:
@@ -5645,7 +5645,7 @@ static const char * get_region_name_MN(int region_code)
 
 static const char * get_region_name_MO(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Ilhas";
     case 2:
@@ -5657,7 +5657,7 @@ static const char * get_region_name_MO(int region_code)
 
 static const char * get_region_name_MR(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Hodh Ech Chargui";
     case 2:
@@ -5689,7 +5689,7 @@ static const char * get_region_name_MR(int region_code)
 
 static const char * get_region_name_MS(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Saint Anthony";
     case 2:
@@ -5703,7 +5703,7 @@ static const char * get_region_name_MS(int region_code)
 
 static const char * get_region_name_MU(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 12:
         return "Black River";
     case 13:
@@ -5735,7 +5735,7 @@ static const char * get_region_name_MU(int region_code)
 
 static const char * get_region_name_MV(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Seenu";
     case 5:
@@ -5783,7 +5783,7 @@ static const char * get_region_name_MV(int region_code)
 
 static const char * get_region_name_MW(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 2:
         return "Chikwawa";
     case 3:
@@ -5845,7 +5845,7 @@ static const char * get_region_name_MW(int region_code)
 
 static const char * get_region_name_MX(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Aguascalientes";
     case 2:
@@ -5917,7 +5917,7 @@ static const char * get_region_name_MX(int region_code)
 
 static const char * get_region_name_MY(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Johor";
     case 2:
@@ -5957,7 +5957,7 @@ static const char * get_region_name_MY(int region_code)
 
 static const char * get_region_name_MZ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Cabo Delgado";
     case 2:
@@ -5987,7 +5987,7 @@ static const char * get_region_name_MZ(int region_code)
 
 static const char * get_region_name_NA(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Bethanien";
     case 2:
@@ -6071,7 +6071,7 @@ static const char * get_region_name_NA(int region_code)
 
 static const char * get_region_name_NE(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Agadez";
     case 2:
@@ -6095,7 +6095,7 @@ static const char * get_region_name_NE(int region_code)
 
 static const char * get_region_name_NG(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 5:
         return "Lagos";
     case 11:
@@ -6177,7 +6177,7 @@ static const char * get_region_name_NG(int region_code)
 
 static const char * get_region_name_NI(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Boaco";
     case 2:
@@ -6221,7 +6221,7 @@ static const char * get_region_name_NI(int region_code)
 
 static const char * get_region_name_NL(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Drenthe";
     case 2:
@@ -6253,7 +6253,7 @@ static const char * get_region_name_NL(int region_code)
 
 static const char * get_region_name_NO(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Akershus";
     case 2:
@@ -6299,7 +6299,7 @@ static const char * get_region_name_NO(int region_code)
 
 static const char * get_region_name_NP(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Bagmati";
     case 2:
@@ -6335,7 +6335,7 @@ static const char * get_region_name_NP(int region_code)
 
 static const char * get_region_name_NR(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Aiwo";
     case 2:
@@ -6371,7 +6371,7 @@ static const char * get_region_name_NR(int region_code)
 
 static const char * get_region_name_NZ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 10:
         return "Chatham Islands";
     case 1010:
@@ -6411,7 +6411,7 @@ static const char * get_region_name_NZ(int region_code)
 
 static const char * get_region_name_OM(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Ad Dakhiliyah";
     case 2:
@@ -6435,7 +6435,7 @@ static const char * get_region_name_OM(int region_code)
 
 static const char * get_region_name_PA(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Bocas del Toro";
     case 2:
@@ -6463,7 +6463,7 @@ static const char * get_region_name_PA(int region_code)
 
 static const char * get_region_name_PE(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Amazonas";
     case 2:
@@ -6521,7 +6521,7 @@ static const char * get_region_name_PE(int region_code)
 
 static const char * get_region_name_PG(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Central";
     case 2:
@@ -6569,7 +6569,7 @@ static const char * get_region_name_PG(int region_code)
 
 static const char * get_region_name_PH(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Abra";
     case 2:
@@ -6889,7 +6889,7 @@ static const char * get_region_name_PH(int region_code)
 
 static const char * get_region_name_PK(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Federally Administered Tribal Areas";
     case 2:
@@ -6913,7 +6913,7 @@ static const char * get_region_name_PK(int region_code)
 
 static const char * get_region_name_PL(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 72:
         return "Dolnoslaskie";
     case 73:
@@ -6953,7 +6953,7 @@ static const char * get_region_name_PL(int region_code)
 
 static const char * get_region_name_PS(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1131:
         return "Gaza";
     case 1798:
@@ -6965,7 +6965,7 @@ static const char * get_region_name_PS(int region_code)
 
 static const char * get_region_name_PT(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 2:
         return "Aveiro";
     case 3:
@@ -7013,7 +7013,7 @@ static const char * get_region_name_PT(int region_code)
 
 static const char * get_region_name_PY(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Alto Parana";
     case 2:
@@ -7057,7 +7057,7 @@ static const char * get_region_name_PY(int region_code)
 
 static const char * get_region_name_QA(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Ad Dawhah";
     case 2:
@@ -7087,7 +7087,7 @@ static const char * get_region_name_QA(int region_code)
 
 static const char * get_region_name_RO(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Alba";
     case 2:
@@ -7179,7 +7179,7 @@ static const char * get_region_name_RO(int region_code)
 
 static const char * get_region_name_RS(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Kosovo";
     case 2:
@@ -7191,7 +7191,7 @@ static const char * get_region_name_RS(int region_code)
 
 static const char * get_region_name_RU(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Adygeya, Republic of";
     case 2:
@@ -7381,7 +7381,7 @@ static const char * get_region_name_RU(int region_code)
 
 static const char * get_region_name_RW(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Butare";
     case 6:
@@ -7407,7 +7407,7 @@ static const char * get_region_name_RW(int region_code)
 
 static const char * get_region_name_SA(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 2:
         return "Al Bahah";
     case 5:
@@ -7441,7 +7441,7 @@ static const char * get_region_name_SA(int region_code)
 
 static const char * get_region_name_SB(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 3:
         return "Malaita";
     case 6:
@@ -7467,7 +7467,7 @@ static const char * get_region_name_SB(int region_code)
 
 static const char * get_region_name_SC(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Anse aux Pins";
     case 2:
@@ -7521,7 +7521,7 @@ static const char * get_region_name_SC(int region_code)
 
 static const char * get_region_name_SD(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 27:
         return "Al Wusta";
     case 28:
@@ -7561,7 +7561,7 @@ static const char * get_region_name_SD(int region_code)
 
 static const char * get_region_name_SE(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 2:
         return "Blekinge Lan";
     case 3:
@@ -7611,7 +7611,7 @@ static const char * get_region_name_SE(int region_code)
 
 static const char * get_region_name_SH(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Ascension";
     case 2:
@@ -7625,7 +7625,7 @@ static const char * get_region_name_SH(int region_code)
 
 static const char * get_region_name_SI(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Ajdovscina Commune";
     case 2:
@@ -8051,7 +8051,7 @@ static const char * get_region_name_SI(int region_code)
 
 static const char * get_region_name_SK(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Banska Bystrica";
     case 2:
@@ -8075,7 +8075,7 @@ static const char * get_region_name_SK(int region_code)
 
 static const char * get_region_name_SL(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Eastern";
     case 2:
@@ -8091,7 +8091,7 @@ static const char * get_region_name_SL(int region_code)
 
 static const char * get_region_name_SM(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Acquaviva";
     case 2:
@@ -8117,7 +8117,7 @@ static const char * get_region_name_SM(int region_code)
 
 static const char * get_region_name_SN(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Dakar";
     case 3:
@@ -8147,7 +8147,7 @@ static const char * get_region_name_SN(int region_code)
 
 static const char * get_region_name_SO(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Bakool";
     case 2:
@@ -8195,7 +8195,7 @@ static const char * get_region_name_SO(int region_code)
 
 static const char * get_region_name_SR(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 10:
         return "Brokopondo";
     case 11:
@@ -8223,7 +8223,7 @@ static const char * get_region_name_SR(int region_code)
 
 static const char * get_region_name_SS(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Central Equatoria";
     case 2:
@@ -8251,7 +8251,7 @@ static const char * get_region_name_SS(int region_code)
 
 static const char * get_region_name_ST(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Principe";
     case 2:
@@ -8263,7 +8263,7 @@ static const char * get_region_name_ST(int region_code)
 
 static const char * get_region_name_SV(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Ahuachapan";
     case 2:
@@ -8299,7 +8299,7 @@ static const char * get_region_name_SV(int region_code)
 
 static const char * get_region_name_SY(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Al Hasakah";
     case 2:
@@ -8335,7 +8335,7 @@ static const char * get_region_name_SY(int region_code)
 
 static const char * get_region_name_SZ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Hhohho";
     case 2:
@@ -8353,7 +8353,7 @@ static const char * get_region_name_SZ(int region_code)
 
 static const char * get_region_name_TD(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Batha";
     case 2:
@@ -8389,7 +8389,7 @@ static const char * get_region_name_TD(int region_code)
 
 static const char * get_region_name_TG(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 22:
         return "Centrale";
     case 23:
@@ -8407,7 +8407,7 @@ static const char * get_region_name_TG(int region_code)
 
 static const char * get_region_name_TH(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Mae Hong Son";
     case 2:
@@ -8575,7 +8575,7 @@ static const char * get_region_name_TH(int region_code)
 
 static const char * get_region_name_TJ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Kuhistoni Badakhshon";
     case 2:
@@ -8593,7 +8593,7 @@ static const char * get_region_name_TJ(int region_code)
 
 static const char * get_region_name_TL(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 6:
         return "Dili";
     default:
@@ -8603,7 +8603,7 @@ static const char * get_region_name_TL(int region_code)
 
 static const char * get_region_name_TM(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Ahal";
     case 2:
@@ -8621,7 +8621,7 @@ static const char * get_region_name_TM(int region_code)
 
 static const char * get_region_name_TN(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 2:
         return "Kasserine";
     case 3:
@@ -8677,7 +8677,7 @@ static const char * get_region_name_TN(int region_code)
 
 static const char * get_region_name_TO(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Ha";
     case 2:
@@ -8691,7 +8691,7 @@ static const char * get_region_name_TO(int region_code)
 
 static const char * get_region_name_TR(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 2:
         return "Adiyaman";
     case 3:
@@ -8861,7 +8861,7 @@ static const char * get_region_name_TR(int region_code)
 
 static const char * get_region_name_TT(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Arima";
     case 2:
@@ -8893,7 +8893,7 @@ static const char * get_region_name_TT(int region_code)
 
 static const char * get_region_name_TW(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Fu-chien";
     case 2:
@@ -8909,7 +8909,7 @@ static const char * get_region_name_TW(int region_code)
 
 static const char * get_region_name_TZ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 2:
         return "Pwani";
     case 3:
@@ -8969,7 +8969,7 @@ static const char * get_region_name_TZ(int region_code)
 
 static const char * get_region_name_UA(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Cherkas'ka Oblast'";
     case 2:
@@ -9031,7 +9031,7 @@ static const char * get_region_name_UA(int region_code)
 
 static const char * get_region_name_UG(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 26:
         return "Apac";
     case 28:
@@ -9149,7 +9149,7 @@ static const char * get_region_name_UG(int region_code)
 
 static const char * get_region_name_US(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 848:
         return "Armed Forces Americas";
     case 852:
@@ -9279,7 +9279,7 @@ static const char * get_region_name_US(int region_code)
 
 static const char * get_region_name_UY(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Artigas";
     case 2:
@@ -9325,7 +9325,7 @@ static const char * get_region_name_UY(int region_code)
 
 static const char * get_region_name_UZ(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Andijon";
     case 2:
@@ -9363,7 +9363,7 @@ static const char * get_region_name_UZ(int region_code)
 
 static const char * get_region_name_VC(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Charlotte";
     case 2:
@@ -9383,7 +9383,7 @@ static const char * get_region_name_VC(int region_code)
 
 static const char * get_region_name_VE(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Amazonas";
     case 2:
@@ -9441,7 +9441,7 @@ static const char * get_region_name_VE(int region_code)
 
 static const char * get_region_name_VN(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "An Giang";
     case 3:
@@ -9575,7 +9575,7 @@ static const char * get_region_name_VN(int region_code)
 
 static const char * get_region_name_VU(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 5:
         return "Ambrym";
     case 6:
@@ -9611,7 +9611,7 @@ static const char * get_region_name_VU(int region_code)
 
 static const char * get_region_name_WS(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 2:
         return "Aiga-i-le-Tai";
     case 3:
@@ -9639,7 +9639,7 @@ static const char * get_region_name_WS(int region_code)
 
 static const char * get_region_name_YE(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Abyan";
     case 2:
@@ -9697,7 +9697,7 @@ static const char * get_region_name_YE(int region_code)
 
 static const char * get_region_name_ZA(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "North-Western Province";
     case 2:
@@ -9725,7 +9725,7 @@ static const char * get_region_name_ZA(int region_code)
 
 static const char * get_region_name_ZM(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Western";
     case 2:
@@ -9751,7 +9751,7 @@ static const char * get_region_name_ZM(int region_code)
 
 static const char * get_region_name_ZW(int region_code)
 {
-    switch(region_code) {
+    switch (region_code) {
     case 1:
         return "Manicaland";
     case 2:
@@ -9777,612 +9777,618 @@ static const char * get_region_name_ZW(int region_code)
     }
 }
 
-const char * GeoIP_region_name_by_code(const char * country_code,const char * region_code) {
+const char * GeoIP_region_name_by_code(const char * country_code,
+                                       const char * region_code)
+{
     int region_code2 = -1;
-    if (region_code == NULL) { return NULL; }
+    if (region_code == NULL) {
+        return NULL;
+    }
 
-    if (   ((region_code[0] >= 48) && (region_code[0] < (48 + 10)))
+    if (((region_code[0] >= 48) && (region_code[0] < (48 + 10)))
         && ((region_code[1] >= 48) && (region_code[1] < (48 + 10)))
-    ) {
+        ) {
 
         /* only numbers, that shortens the large switch statements */
         region_code2 = (region_code[0] - 48) * 10 + region_code[1] - 48;
-    }
-
-    else if (    (    ((region_code[0] >= 65) && (region_code[0] < (65 + 26)))
+    }else if ((    ((region_code[0] >= 65) && (region_code[0] < (65 + 26)))
                    || ((region_code[0] >= 48) && (region_code[0] < (48 + 10))))
               && (    ((region_code[1] >= 65) && (region_code[1] < (65 + 26)))
-                   || ((region_code[1] >= 48) && (region_code[1] < (48 + 10))))
-    ) {
+                      || ((region_code[1] >= 48) &&
+                          (region_code[1] < (48 + 10))))
+              ) {
 
-        region_code2 = (region_code[0] - 48) * (65 + 26 - 48) + region_code[1] - 48 + 100;
+        region_code2 = (region_code[0] - 48) * (65 + 26 - 48) + region_code[1] -
+                       48 + 100;
     }
 
-    if (region_code2 == -1) {return NULL;}
+    if (region_code2 == -1) {
+        return NULL;
+    }
 
-    if (strcmp(country_code,"AD") == 0) {
+    if (strcmp(country_code, "AD") == 0) {
         return get_region_name_AD(region_code2);
     }
-    if (strcmp(country_code,"AE") == 0) {
+    if (strcmp(country_code, "AE") == 0) {
         return get_region_name_AE(region_code2);
     }
-    if (strcmp(country_code,"AF") == 0) {
+    if (strcmp(country_code, "AF") == 0) {
         return get_region_name_AF(region_code2);
     }
-    if (strcmp(country_code,"AG") == 0) {
+    if (strcmp(country_code, "AG") == 0) {
         return get_region_name_AG(region_code2);
     }
-    if (strcmp(country_code,"AL") == 0) {
+    if (strcmp(country_code, "AL") == 0) {
         return get_region_name_AL(region_code2);
     }
-    if (strcmp(country_code,"AM") == 0) {
+    if (strcmp(country_code, "AM") == 0) {
         return get_region_name_AM(region_code2);
     }
-    if (strcmp(country_code,"AO") == 0) {
+    if (strcmp(country_code, "AO") == 0) {
         return get_region_name_AO(region_code2);
     }
-    if (strcmp(country_code,"AR") == 0) {
+    if (strcmp(country_code, "AR") == 0) {
         return get_region_name_AR(region_code2);
     }
-    if (strcmp(country_code,"AT") == 0) {
+    if (strcmp(country_code, "AT") == 0) {
         return get_region_name_AT(region_code2);
     }
-    if (strcmp(country_code,"AU") == 0) {
+    if (strcmp(country_code, "AU") == 0) {
         return get_region_name_AU(region_code2);
     }
-    if (strcmp(country_code,"AZ") == 0) {
+    if (strcmp(country_code, "AZ") == 0) {
         return get_region_name_AZ(region_code2);
     }
-    if (strcmp(country_code,"BA") == 0) {
+    if (strcmp(country_code, "BA") == 0) {
         return get_region_name_BA(region_code2);
     }
-    if (strcmp(country_code,"BB") == 0) {
+    if (strcmp(country_code, "BB") == 0) {
         return get_region_name_BB(region_code2);
     }
-    if (strcmp(country_code,"BD") == 0) {
+    if (strcmp(country_code, "BD") == 0) {
         return get_region_name_BD(region_code2);
     }
-    if (strcmp(country_code,"BE") == 0) {
+    if (strcmp(country_code, "BE") == 0) {
         return get_region_name_BE(region_code2);
     }
-    if (strcmp(country_code,"BF") == 0) {
+    if (strcmp(country_code, "BF") == 0) {
         return get_region_name_BF(region_code2);
     }
-    if (strcmp(country_code,"BG") == 0) {
+    if (strcmp(country_code, "BG") == 0) {
         return get_region_name_BG(region_code2);
     }
-    if (strcmp(country_code,"BH") == 0) {
+    if (strcmp(country_code, "BH") == 0) {
         return get_region_name_BH(region_code2);
     }
-    if (strcmp(country_code,"BI") == 0) {
+    if (strcmp(country_code, "BI") == 0) {
         return get_region_name_BI(region_code2);
     }
-    if (strcmp(country_code,"BJ") == 0) {
+    if (strcmp(country_code, "BJ") == 0) {
         return get_region_name_BJ(region_code2);
     }
-    if (strcmp(country_code,"BM") == 0) {
+    if (strcmp(country_code, "BM") == 0) {
         return get_region_name_BM(region_code2);
     }
-    if (strcmp(country_code,"BN") == 0) {
+    if (strcmp(country_code, "BN") == 0) {
         return get_region_name_BN(region_code2);
     }
-    if (strcmp(country_code,"BO") == 0) {
+    if (strcmp(country_code, "BO") == 0) {
         return get_region_name_BO(region_code2);
     }
-    if (strcmp(country_code,"BR") == 0) {
+    if (strcmp(country_code, "BR") == 0) {
         return get_region_name_BR(region_code2);
     }
-    if (strcmp(country_code,"BS") == 0) {
+    if (strcmp(country_code, "BS") == 0) {
         return get_region_name_BS(region_code2);
     }
-    if (strcmp(country_code,"BT") == 0) {
+    if (strcmp(country_code, "BT") == 0) {
         return get_region_name_BT(region_code2);
     }
-    if (strcmp(country_code,"BW") == 0) {
+    if (strcmp(country_code, "BW") == 0) {
         return get_region_name_BW(region_code2);
     }
-    if (strcmp(country_code,"BY") == 0) {
+    if (strcmp(country_code, "BY") == 0) {
         return get_region_name_BY(region_code2);
     }
-    if (strcmp(country_code,"BZ") == 0) {
+    if (strcmp(country_code, "BZ") == 0) {
         return get_region_name_BZ(region_code2);
     }
-    if (strcmp(country_code,"CA") == 0) {
+    if (strcmp(country_code, "CA") == 0) {
         return get_region_name_CA(region_code2);
     }
-    if (strcmp(country_code,"CD") == 0) {
+    if (strcmp(country_code, "CD") == 0) {
         return get_region_name_CD(region_code2);
     }
-    if (strcmp(country_code,"CF") == 0) {
+    if (strcmp(country_code, "CF") == 0) {
         return get_region_name_CF(region_code2);
     }
-    if (strcmp(country_code,"CG") == 0) {
+    if (strcmp(country_code, "CG") == 0) {
         return get_region_name_CG(region_code2);
     }
-    if (strcmp(country_code,"CH") == 0) {
+    if (strcmp(country_code, "CH") == 0) {
         return get_region_name_CH(region_code2);
     }
-    if (strcmp(country_code,"CI") == 0) {
+    if (strcmp(country_code, "CI") == 0) {
         return get_region_name_CI(region_code2);
     }
-    if (strcmp(country_code,"CL") == 0) {
+    if (strcmp(country_code, "CL") == 0) {
         return get_region_name_CL(region_code2);
     }
-    if (strcmp(country_code,"CM") == 0) {
+    if (strcmp(country_code, "CM") == 0) {
         return get_region_name_CM(region_code2);
     }
-    if (strcmp(country_code,"CN") == 0) {
+    if (strcmp(country_code, "CN") == 0) {
         return get_region_name_CN(region_code2);
     }
-    if (strcmp(country_code,"CO") == 0) {
+    if (strcmp(country_code, "CO") == 0) {
         return get_region_name_CO(region_code2);
     }
-    if (strcmp(country_code,"CR") == 0) {
+    if (strcmp(country_code, "CR") == 0) {
         return get_region_name_CR(region_code2);
     }
-    if (strcmp(country_code,"CU") == 0) {
+    if (strcmp(country_code, "CU") == 0) {
         return get_region_name_CU(region_code2);
     }
-    if (strcmp(country_code,"CV") == 0) {
+    if (strcmp(country_code, "CV") == 0) {
         return get_region_name_CV(region_code2);
     }
-    if (strcmp(country_code,"CY") == 0) {
+    if (strcmp(country_code, "CY") == 0) {
         return get_region_name_CY(region_code2);
     }
-    if (strcmp(country_code,"CZ") == 0) {
+    if (strcmp(country_code, "CZ") == 0) {
         return get_region_name_CZ(region_code2);
     }
-    if (strcmp(country_code,"DE") == 0) {
+    if (strcmp(country_code, "DE") == 0) {
         return get_region_name_DE(region_code2);
     }
-    if (strcmp(country_code,"DJ") == 0) {
+    if (strcmp(country_code, "DJ") == 0) {
         return get_region_name_DJ(region_code2);
     }
-    if (strcmp(country_code,"DK") == 0) {
+    if (strcmp(country_code, "DK") == 0) {
         return get_region_name_DK(region_code2);
     }
-    if (strcmp(country_code,"DM") == 0) {
+    if (strcmp(country_code, "DM") == 0) {
         return get_region_name_DM(region_code2);
     }
-    if (strcmp(country_code,"DO") == 0) {
+    if (strcmp(country_code, "DO") == 0) {
         return get_region_name_DO(region_code2);
     }
-    if (strcmp(country_code,"DZ") == 0) {
+    if (strcmp(country_code, "DZ") == 0) {
         return get_region_name_DZ(region_code2);
     }
-    if (strcmp(country_code,"EC") == 0) {
+    if (strcmp(country_code, "EC") == 0) {
         return get_region_name_EC(region_code2);
     }
-    if (strcmp(country_code,"EE") == 0) {
+    if (strcmp(country_code, "EE") == 0) {
         return get_region_name_EE(region_code2);
     }
-    if (strcmp(country_code,"EG") == 0) {
+    if (strcmp(country_code, "EG") == 0) {
         return get_region_name_EG(region_code2);
     }
-    if (strcmp(country_code,"ER") == 0) {
+    if (strcmp(country_code, "ER") == 0) {
         return get_region_name_ER(region_code2);
     }
-    if (strcmp(country_code,"ES") == 0) {
+    if (strcmp(country_code, "ES") == 0) {
         return get_region_name_ES(region_code2);
     }
-    if (strcmp(country_code,"ET") == 0) {
+    if (strcmp(country_code, "ET") == 0) {
         return get_region_name_ET(region_code2);
     }
-    if (strcmp(country_code,"FI") == 0) {
+    if (strcmp(country_code, "FI") == 0) {
         return get_region_name_FI(region_code2);
     }
-    if (strcmp(country_code,"FJ") == 0) {
+    if (strcmp(country_code, "FJ") == 0) {
         return get_region_name_FJ(region_code2);
     }
-    if (strcmp(country_code,"FM") == 0) {
+    if (strcmp(country_code, "FM") == 0) {
         return get_region_name_FM(region_code2);
     }
-    if (strcmp(country_code,"FR") == 0) {
+    if (strcmp(country_code, "FR") == 0) {
         return get_region_name_FR(region_code2);
     }
-    if (strcmp(country_code,"GA") == 0) {
+    if (strcmp(country_code, "GA") == 0) {
         return get_region_name_GA(region_code2);
     }
-    if (strcmp(country_code,"GB") == 0) {
+    if (strcmp(country_code, "GB") == 0) {
         return get_region_name_GB(region_code2);
     }
-    if (strcmp(country_code,"GD") == 0) {
+    if (strcmp(country_code, "GD") == 0) {
         return get_region_name_GD(region_code2);
     }
-    if (strcmp(country_code,"GE") == 0) {
+    if (strcmp(country_code, "GE") == 0) {
         return get_region_name_GE(region_code2);
     }
-    if (strcmp(country_code,"GH") == 0) {
+    if (strcmp(country_code, "GH") == 0) {
         return get_region_name_GH(region_code2);
     }
-    if (strcmp(country_code,"GL") == 0) {
+    if (strcmp(country_code, "GL") == 0) {
         return get_region_name_GL(region_code2);
     }
-    if (strcmp(country_code,"GM") == 0) {
+    if (strcmp(country_code, "GM") == 0) {
         return get_region_name_GM(region_code2);
     }
-    if (strcmp(country_code,"GN") == 0) {
+    if (strcmp(country_code, "GN") == 0) {
         return get_region_name_GN(region_code2);
     }
-    if (strcmp(country_code,"GQ") == 0) {
+    if (strcmp(country_code, "GQ") == 0) {
         return get_region_name_GQ(region_code2);
     }
-    if (strcmp(country_code,"GR") == 0) {
+    if (strcmp(country_code, "GR") == 0) {
         return get_region_name_GR(region_code2);
     }
-    if (strcmp(country_code,"GT") == 0) {
+    if (strcmp(country_code, "GT") == 0) {
         return get_region_name_GT(region_code2);
     }
-    if (strcmp(country_code,"GW") == 0) {
+    if (strcmp(country_code, "GW") == 0) {
         return get_region_name_GW(region_code2);
     }
-    if (strcmp(country_code,"GY") == 0) {
+    if (strcmp(country_code, "GY") == 0) {
         return get_region_name_GY(region_code2);
     }
-    if (strcmp(country_code,"HN") == 0) {
+    if (strcmp(country_code, "HN") == 0) {
         return get_region_name_HN(region_code2);
     }
-    if (strcmp(country_code,"HR") == 0) {
+    if (strcmp(country_code, "HR") == 0) {
         return get_region_name_HR(region_code2);
     }
-    if (strcmp(country_code,"HT") == 0) {
+    if (strcmp(country_code, "HT") == 0) {
         return get_region_name_HT(region_code2);
     }
-    if (strcmp(country_code,"HU") == 0) {
+    if (strcmp(country_code, "HU") == 0) {
         return get_region_name_HU(region_code2);
     }
-    if (strcmp(country_code,"ID") == 0) {
+    if (strcmp(country_code, "ID") == 0) {
         return get_region_name_ID(region_code2);
     }
-    if (strcmp(country_code,"IE") == 0) {
+    if (strcmp(country_code, "IE") == 0) {
         return get_region_name_IE(region_code2);
     }
-    if (strcmp(country_code,"IL") == 0) {
+    if (strcmp(country_code, "IL") == 0) {
         return get_region_name_IL(region_code2);
     }
-    if (strcmp(country_code,"IN") == 0) {
+    if (strcmp(country_code, "IN") == 0) {
         return get_region_name_IN(region_code2);
     }
-    if (strcmp(country_code,"IQ") == 0) {
+    if (strcmp(country_code, "IQ") == 0) {
         return get_region_name_IQ(region_code2);
     }
-    if (strcmp(country_code,"IR") == 0) {
+    if (strcmp(country_code, "IR") == 0) {
         return get_region_name_IR(region_code2);
     }
-    if (strcmp(country_code,"IS") == 0) {
+    if (strcmp(country_code, "IS") == 0) {
         return get_region_name_IS(region_code2);
     }
-    if (strcmp(country_code,"IT") == 0) {
+    if (strcmp(country_code, "IT") == 0) {
         return get_region_name_IT(region_code2);
     }
-    if (strcmp(country_code,"JM") == 0) {
+    if (strcmp(country_code, "JM") == 0) {
         return get_region_name_JM(region_code2);
     }
-    if (strcmp(country_code,"JO") == 0) {
+    if (strcmp(country_code, "JO") == 0) {
         return get_region_name_JO(region_code2);
     }
-    if (strcmp(country_code,"JP") == 0) {
+    if (strcmp(country_code, "JP") == 0) {
         return get_region_name_JP(region_code2);
     }
-    if (strcmp(country_code,"KE") == 0) {
+    if (strcmp(country_code, "KE") == 0) {
         return get_region_name_KE(region_code2);
     }
-    if (strcmp(country_code,"KG") == 0) {
+    if (strcmp(country_code, "KG") == 0) {
         return get_region_name_KG(region_code2);
     }
-    if (strcmp(country_code,"KH") == 0) {
+    if (strcmp(country_code, "KH") == 0) {
         return get_region_name_KH(region_code2);
     }
-    if (strcmp(country_code,"KI") == 0) {
+    if (strcmp(country_code, "KI") == 0) {
         return get_region_name_KI(region_code2);
     }
-    if (strcmp(country_code,"KM") == 0) {
+    if (strcmp(country_code, "KM") == 0) {
         return get_region_name_KM(region_code2);
     }
-    if (strcmp(country_code,"KN") == 0) {
+    if (strcmp(country_code, "KN") == 0) {
         return get_region_name_KN(region_code2);
     }
-    if (strcmp(country_code,"KP") == 0) {
+    if (strcmp(country_code, "KP") == 0) {
         return get_region_name_KP(region_code2);
     }
-    if (strcmp(country_code,"KR") == 0) {
+    if (strcmp(country_code, "KR") == 0) {
         return get_region_name_KR(region_code2);
     }
-    if (strcmp(country_code,"KW") == 0) {
+    if (strcmp(country_code, "KW") == 0) {
         return get_region_name_KW(region_code2);
     }
-    if (strcmp(country_code,"KY") == 0) {
+    if (strcmp(country_code, "KY") == 0) {
         return get_region_name_KY(region_code2);
     }
-    if (strcmp(country_code,"KZ") == 0) {
+    if (strcmp(country_code, "KZ") == 0) {
         return get_region_name_KZ(region_code2);
     }
-    if (strcmp(country_code,"LA") == 0) {
+    if (strcmp(country_code, "LA") == 0) {
         return get_region_name_LA(region_code2);
     }
-    if (strcmp(country_code,"LB") == 0) {
+    if (strcmp(country_code, "LB") == 0) {
         return get_region_name_LB(region_code2);
     }
-    if (strcmp(country_code,"LC") == 0) {
+    if (strcmp(country_code, "LC") == 0) {
         return get_region_name_LC(region_code2);
     }
-    if (strcmp(country_code,"LI") == 0) {
+    if (strcmp(country_code, "LI") == 0) {
         return get_region_name_LI(region_code2);
     }
-    if (strcmp(country_code,"LK") == 0) {
+    if (strcmp(country_code, "LK") == 0) {
         return get_region_name_LK(region_code2);
     }
-    if (strcmp(country_code,"LR") == 0) {
+    if (strcmp(country_code, "LR") == 0) {
         return get_region_name_LR(region_code2);
     }
-    if (strcmp(country_code,"LS") == 0) {
+    if (strcmp(country_code, "LS") == 0) {
         return get_region_name_LS(region_code2);
     }
-    if (strcmp(country_code,"LT") == 0) {
+    if (strcmp(country_code, "LT") == 0) {
         return get_region_name_LT(region_code2);
     }
-    if (strcmp(country_code,"LU") == 0) {
+    if (strcmp(country_code, "LU") == 0) {
         return get_region_name_LU(region_code2);
     }
-    if (strcmp(country_code,"LV") == 0) {
+    if (strcmp(country_code, "LV") == 0) {
         return get_region_name_LV(region_code2);
     }
-    if (strcmp(country_code,"LY") == 0) {
+    if (strcmp(country_code, "LY") == 0) {
         return get_region_name_LY(region_code2);
     }
-    if (strcmp(country_code,"MA") == 0) {
+    if (strcmp(country_code, "MA") == 0) {
         return get_region_name_MA(region_code2);
     }
-    if (strcmp(country_code,"MC") == 0) {
+    if (strcmp(country_code, "MC") == 0) {
         return get_region_name_MC(region_code2);
     }
-    if (strcmp(country_code,"MD") == 0) {
+    if (strcmp(country_code, "MD") == 0) {
         return get_region_name_MD(region_code2);
     }
-    if (strcmp(country_code,"MG") == 0) {
+    if (strcmp(country_code, "MG") == 0) {
         return get_region_name_MG(region_code2);
     }
-    if (strcmp(country_code,"MK") == 0) {
+    if (strcmp(country_code, "MK") == 0) {
         return get_region_name_MK(region_code2);
     }
-    if (strcmp(country_code,"ML") == 0) {
+    if (strcmp(country_code, "ML") == 0) {
         return get_region_name_ML(region_code2);
     }
-    if (strcmp(country_code,"MM") == 0) {
+    if (strcmp(country_code, "MM") == 0) {
         return get_region_name_MM(region_code2);
     }
-    if (strcmp(country_code,"MN") == 0) {
+    if (strcmp(country_code, "MN") == 0) {
         return get_region_name_MN(region_code2);
     }
-    if (strcmp(country_code,"MO") == 0) {
+    if (strcmp(country_code, "MO") == 0) {
         return get_region_name_MO(region_code2);
     }
-    if (strcmp(country_code,"MR") == 0) {
+    if (strcmp(country_code, "MR") == 0) {
         return get_region_name_MR(region_code2);
     }
-    if (strcmp(country_code,"MS") == 0) {
+    if (strcmp(country_code, "MS") == 0) {
         return get_region_name_MS(region_code2);
     }
-    if (strcmp(country_code,"MU") == 0) {
+    if (strcmp(country_code, "MU") == 0) {
         return get_region_name_MU(region_code2);
     }
-    if (strcmp(country_code,"MV") == 0) {
+    if (strcmp(country_code, "MV") == 0) {
         return get_region_name_MV(region_code2);
     }
-    if (strcmp(country_code,"MW") == 0) {
+    if (strcmp(country_code, "MW") == 0) {
         return get_region_name_MW(region_code2);
     }
-    if (strcmp(country_code,"MX") == 0) {
+    if (strcmp(country_code, "MX") == 0) {
         return get_region_name_MX(region_code2);
     }
-    if (strcmp(country_code,"MY") == 0) {
+    if (strcmp(country_code, "MY") == 0) {
         return get_region_name_MY(region_code2);
     }
-    if (strcmp(country_code,"MZ") == 0) {
+    if (strcmp(country_code, "MZ") == 0) {
         return get_region_name_MZ(region_code2);
     }
-    if (strcmp(country_code,"NA") == 0) {
+    if (strcmp(country_code, "NA") == 0) {
         return get_region_name_NA(region_code2);
     }
-    if (strcmp(country_code,"NE") == 0) {
+    if (strcmp(country_code, "NE") == 0) {
         return get_region_name_NE(region_code2);
     }
-    if (strcmp(country_code,"NG") == 0) {
+    if (strcmp(country_code, "NG") == 0) {
         return get_region_name_NG(region_code2);
     }
-    if (strcmp(country_code,"NI") == 0) {
+    if (strcmp(country_code, "NI") == 0) {
         return get_region_name_NI(region_code2);
     }
-    if (strcmp(country_code,"NL") == 0) {
+    if (strcmp(country_code, "NL") == 0) {
         return get_region_name_NL(region_code2);
     }
-    if (strcmp(country_code,"NO") == 0) {
+    if (strcmp(country_code, "NO") == 0) {
         return get_region_name_NO(region_code2);
     }
-    if (strcmp(country_code,"NP") == 0) {
+    if (strcmp(country_code, "NP") == 0) {
         return get_region_name_NP(region_code2);
     }
-    if (strcmp(country_code,"NR") == 0) {
+    if (strcmp(country_code, "NR") == 0) {
         return get_region_name_NR(region_code2);
     }
-    if (strcmp(country_code,"NZ") == 0) {
+    if (strcmp(country_code, "NZ") == 0) {
         return get_region_name_NZ(region_code2);
     }
-    if (strcmp(country_code,"OM") == 0) {
+    if (strcmp(country_code, "OM") == 0) {
         return get_region_name_OM(region_code2);
     }
-    if (strcmp(country_code,"PA") == 0) {
+    if (strcmp(country_code, "PA") == 0) {
         return get_region_name_PA(region_code2);
     }
-    if (strcmp(country_code,"PE") == 0) {
+    if (strcmp(country_code, "PE") == 0) {
         return get_region_name_PE(region_code2);
     }
-    if (strcmp(country_code,"PG") == 0) {
+    if (strcmp(country_code, "PG") == 0) {
         return get_region_name_PG(region_code2);
     }
-    if (strcmp(country_code,"PH") == 0) {
+    if (strcmp(country_code, "PH") == 0) {
         return get_region_name_PH(region_code2);
     }
-    if (strcmp(country_code,"PK") == 0) {
+    if (strcmp(country_code, "PK") == 0) {
         return get_region_name_PK(region_code2);
     }
-    if (strcmp(country_code,"PL") == 0) {
+    if (strcmp(country_code, "PL") == 0) {
         return get_region_name_PL(region_code2);
     }
-    if (strcmp(country_code,"PS") == 0) {
+    if (strcmp(country_code, "PS") == 0) {
         return get_region_name_PS(region_code2);
     }
-    if (strcmp(country_code,"PT") == 0) {
+    if (strcmp(country_code, "PT") == 0) {
         return get_region_name_PT(region_code2);
     }
-    if (strcmp(country_code,"PY") == 0) {
+    if (strcmp(country_code, "PY") == 0) {
         return get_region_name_PY(region_code2);
     }
-    if (strcmp(country_code,"QA") == 0) {
+    if (strcmp(country_code, "QA") == 0) {
         return get_region_name_QA(region_code2);
     }
-    if (strcmp(country_code,"RO") == 0) {
+    if (strcmp(country_code, "RO") == 0) {
         return get_region_name_RO(region_code2);
     }
-    if (strcmp(country_code,"RS") == 0) {
+    if (strcmp(country_code, "RS") == 0) {
         return get_region_name_RS(region_code2);
     }
-    if (strcmp(country_code,"RU") == 0) {
+    if (strcmp(country_code, "RU") == 0) {
         return get_region_name_RU(region_code2);
     }
-    if (strcmp(country_code,"RW") == 0) {
+    if (strcmp(country_code, "RW") == 0) {
         return get_region_name_RW(region_code2);
     }
-    if (strcmp(country_code,"SA") == 0) {
+    if (strcmp(country_code, "SA") == 0) {
         return get_region_name_SA(region_code2);
     }
-    if (strcmp(country_code,"SB") == 0) {
+    if (strcmp(country_code, "SB") == 0) {
         return get_region_name_SB(region_code2);
     }
-    if (strcmp(country_code,"SC") == 0) {
+    if (strcmp(country_code, "SC") == 0) {
         return get_region_name_SC(region_code2);
     }
-    if (strcmp(country_code,"SD") == 0) {
+    if (strcmp(country_code, "SD") == 0) {
         return get_region_name_SD(region_code2);
     }
-    if (strcmp(country_code,"SE") == 0) {
+    if (strcmp(country_code, "SE") == 0) {
         return get_region_name_SE(region_code2);
     }
-    if (strcmp(country_code,"SH") == 0) {
+    if (strcmp(country_code, "SH") == 0) {
         return get_region_name_SH(region_code2);
     }
-    if (strcmp(country_code,"SI") == 0) {
+    if (strcmp(country_code, "SI") == 0) {
         return get_region_name_SI(region_code2);
     }
-    if (strcmp(country_code,"SK") == 0) {
+    if (strcmp(country_code, "SK") == 0) {
         return get_region_name_SK(region_code2);
     }
-    if (strcmp(country_code,"SL") == 0) {
+    if (strcmp(country_code, "SL") == 0) {
         return get_region_name_SL(region_code2);
     }
-    if (strcmp(country_code,"SM") == 0) {
+    if (strcmp(country_code, "SM") == 0) {
         return get_region_name_SM(region_code2);
     }
-    if (strcmp(country_code,"SN") == 0) {
+    if (strcmp(country_code, "SN") == 0) {
         return get_region_name_SN(region_code2);
     }
-    if (strcmp(country_code,"SO") == 0) {
+    if (strcmp(country_code, "SO") == 0) {
         return get_region_name_SO(region_code2);
     }
-    if (strcmp(country_code,"SR") == 0) {
+    if (strcmp(country_code, "SR") == 0) {
         return get_region_name_SR(region_code2);
     }
-    if (strcmp(country_code,"SS") == 0) {
+    if (strcmp(country_code, "SS") == 0) {
         return get_region_name_SS(region_code2);
     }
-    if (strcmp(country_code,"ST") == 0) {
+    if (strcmp(country_code, "ST") == 0) {
         return get_region_name_ST(region_code2);
     }
-    if (strcmp(country_code,"SV") == 0) {
+    if (strcmp(country_code, "SV") == 0) {
         return get_region_name_SV(region_code2);
     }
-    if (strcmp(country_code,"SY") == 0) {
+    if (strcmp(country_code, "SY") == 0) {
         return get_region_name_SY(region_code2);
     }
-    if (strcmp(country_code,"SZ") == 0) {
+    if (strcmp(country_code, "SZ") == 0) {
         return get_region_name_SZ(region_code2);
     }
-    if (strcmp(country_code,"TD") == 0) {
+    if (strcmp(country_code, "TD") == 0) {
         return get_region_name_TD(region_code2);
     }
-    if (strcmp(country_code,"TG") == 0) {
+    if (strcmp(country_code, "TG") == 0) {
         return get_region_name_TG(region_code2);
     }
-    if (strcmp(country_code,"TH") == 0) {
+    if (strcmp(country_code, "TH") == 0) {
         return get_region_name_TH(region_code2);
     }
-    if (strcmp(country_code,"TJ") == 0) {
+    if (strcmp(country_code, "TJ") == 0) {
         return get_region_name_TJ(region_code2);
     }
-    if (strcmp(country_code,"TL") == 0) {
+    if (strcmp(country_code, "TL") == 0) {
         return get_region_name_TL(region_code2);
     }
-    if (strcmp(country_code,"TM") == 0) {
+    if (strcmp(country_code, "TM") == 0) {
         return get_region_name_TM(region_code2);
     }
-    if (strcmp(country_code,"TN") == 0) {
+    if (strcmp(country_code, "TN") == 0) {
         return get_region_name_TN(region_code2);
     }
-    if (strcmp(country_code,"TO") == 0) {
+    if (strcmp(country_code, "TO") == 0) {
         return get_region_name_TO(region_code2);
     }
-    if (strcmp(country_code,"TR") == 0) {
+    if (strcmp(country_code, "TR") == 0) {
         return get_region_name_TR(region_code2);
     }
-    if (strcmp(country_code,"TT") == 0) {
+    if (strcmp(country_code, "TT") == 0) {
         return get_region_name_TT(region_code2);
     }
-    if (strcmp(country_code,"TW") == 0) {
+    if (strcmp(country_code, "TW") == 0) {
         return get_region_name_TW(region_code2);
     }
-    if (strcmp(country_code,"TZ") == 0) {
+    if (strcmp(country_code, "TZ") == 0) {
         return get_region_name_TZ(region_code2);
     }
-    if (strcmp(country_code,"UA") == 0) {
+    if (strcmp(country_code, "UA") == 0) {
         return get_region_name_UA(region_code2);
     }
-    if (strcmp(country_code,"UG") == 0) {
+    if (strcmp(country_code, "UG") == 0) {
         return get_region_name_UG(region_code2);
     }
-    if (strcmp(country_code,"US") == 0) {
+    if (strcmp(country_code, "US") == 0) {
         return get_region_name_US(region_code2);
     }
-    if (strcmp(country_code,"UY") == 0) {
+    if (strcmp(country_code, "UY") == 0) {
         return get_region_name_UY(region_code2);
     }
-    if (strcmp(country_code,"UZ") == 0) {
+    if (strcmp(country_code, "UZ") == 0) {
         return get_region_name_UZ(region_code2);
     }
-    if (strcmp(country_code,"VC") == 0) {
+    if (strcmp(country_code, "VC") == 0) {
         return get_region_name_VC(region_code2);
     }
-    if (strcmp(country_code,"VE") == 0) {
+    if (strcmp(country_code, "VE") == 0) {
         return get_region_name_VE(region_code2);
     }
-    if (strcmp(country_code,"VN") == 0) {
+    if (strcmp(country_code, "VN") == 0) {
         return get_region_name_VN(region_code2);
     }
-    if (strcmp(country_code,"VU") == 0) {
+    if (strcmp(country_code, "VU") == 0) {
         return get_region_name_VU(region_code2);
     }
-    if (strcmp(country_code,"WS") == 0) {
+    if (strcmp(country_code, "WS") == 0) {
         return get_region_name_WS(region_code2);
     }
-    if (strcmp(country_code,"YE") == 0) {
+    if (strcmp(country_code, "YE") == 0) {
         return get_region_name_YE(region_code2);
     }
-    if (strcmp(country_code,"ZA") == 0) {
+    if (strcmp(country_code, "ZA") == 0) {
         return get_region_name_ZA(region_code2);
     }
-    if (strcmp(country_code,"ZM") == 0) {
+    if (strcmp(country_code, "ZM") == 0) {
         return get_region_name_ZM(region_code2);
     }
-    if (strcmp(country_code,"ZW") == 0) {
+    if (strcmp(country_code, "ZW") == 0) {
         return get_region_name_ZW(region_code2);
     }
     return NULL;

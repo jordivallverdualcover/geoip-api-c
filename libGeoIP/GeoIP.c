@@ -861,7 +861,7 @@ char * _GeoIP_iso_8859_1__utf8(const char * iso)
     char * p;
     char * t = (char *)iso;
     int len = 0;
-    while ( ( c = *t++) ) {
+    while (( c = *t++)) {
         if (c < 0) {
             len++;
         }
@@ -870,7 +870,7 @@ char * _GeoIP_iso_8859_1__utf8(const char * iso)
     t = p = malloc( len );
 
     if (p) {
-        while ( ( c = *iso++ ) ) {
+        while (( c = *iso++ )) {
             if (c < 0) {
                 k = (char)0xc2;
                 if (c >= -64) {
@@ -1129,7 +1129,7 @@ void _check_mtime(GeoIP *gi)
              * database only partly and crash
              */
             if (buf.st_mtime != gi->mtime &&
-                ( buf.st_mtime + 60 < gi->last_mtime_check  ) ) {
+                ( buf.st_mtime + 60 < gi->last_mtime_check  )) {
                 /* GeoIP Database file updated */
                 if (gi->flags & (GEOIP_MEMORY_CACHE | GEOIP_MMAP_CACHE)) {
                     if (gi->cache && (gi->flags & GEOIP_MMAP_CACHE)) {
@@ -1249,7 +1249,7 @@ unsigned int _GeoIP_seek_record_v6_gl(GeoIP *gi, geoipv6_t ipnum,
     unsigned int record_pair_length = gi->record_length * 2;
 
     _check_mtime(gi);
-    if (GeoIP_teredo(gi) ) {
+    if (GeoIP_teredo(gi)) {
         __GEOIP_PREPARE_TEREDO(&ipnum);
     }
     for (depth = 127; depth >= 0; depth--) {
@@ -1329,7 +1329,7 @@ geoipv6_t
 _GeoIP_addr_to_num_v6(const char *addr)
 {
     geoipv6_t ipnum;
-    if (1 == _GeoIP_inet_pton(AF_INET6, addr, &ipnum.s6_addr[0] ) ) {
+    if (1 == _GeoIP_inet_pton(AF_INET6, addr, &ipnum.s6_addr[0] )) {
         return ipnum;
     }
     return IPV6_NULL;
@@ -1536,7 +1536,7 @@ GeoIP * GeoIP_open(const char * filename, int flags)
     }
 
     gi->size = buf.st_size;
-    if (flags & (GEOIP_MEMORY_CACHE | GEOIP_MMAP_CACHE) ) {
+    if (flags & (GEOIP_MEMORY_CACHE | GEOIP_MMAP_CACHE)) {
         gi->mtime = buf.st_mtime;
 
         /* MMAP added my Peter Shipley */
@@ -2497,7 +2497,7 @@ char **GeoIP_range_by_ip_gl(GeoIP * gi, const char *addr, GeoIPLookup * gl)
     right_seek = left_seek + ( 0xffffffff & ~mask );
 
     while (left_seek != 0
-           && target_value == _GeoIP_seek_record_gl(gi, left_seek - 1, &t) ) {
+           && target_value == _GeoIP_seek_record_gl(gi, left_seek - 1, &t)) {
 
         /* Go to beginning of netblock defined by netmask */
         mask = 0xffffffff << ( 32 - t.netmask );
@@ -2506,7 +2506,7 @@ char **GeoIP_range_by_ip_gl(GeoIP * gi, const char *addr, GeoIPLookup * gl)
     ret[0] = GeoIP_num_to_addr(left_seek);
 
     while (right_seek != 0xffffffff
-           && target_value == _GeoIP_seek_record_gl(gi, right_seek + 1, &t) ) {
+           && target_value == _GeoIP_seek_record_gl(gi, right_seek + 1, &t)) {
 
         /* Go to end of netblock defined by netmask */
         mask = 0xffffffff << ( 32 - t.netmask );
